@@ -1,0 +1,6 @@
+paddlepaddle==3.2.2
+paddleocr==3.3.2
+streamlit>=1.40,<2
+pandas>=2.2,<3
+Pillow>=11,<12
+pypdfium2>=4.30,<5
